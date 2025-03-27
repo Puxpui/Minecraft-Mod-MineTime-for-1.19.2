@@ -1,4 +1,4 @@
-MineTime Mod is a mod for Minecraft Forge 1.19.2 that displays the in-game time and day at the top-left corner of the screen,
+# MineTime Mod is a mod for Minecraft Forge 1.19.2 that displays the in-game time and day at the top-left corner of the screen,
 helping players keep track of the current time and how many days have passed in the game.
 
 Features
