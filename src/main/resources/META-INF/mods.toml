@@ -1,0 +1,14 @@
+modLoader="javafml" 
+loaderVersion="[43,)" # Forge 1.19.2 ใช้ loader เวอร์ชัน 43+
+license="MIT"
+
+[[mods]]
+modId="minetime"
+version="1.0"
+displayName="MintTimeMod"
+description='''
+TimerMod for Minecraft 1.19.2
+'''
+authors="Puxpui"
+# Add this line to indicate the mod has a client-side configuration
+clientConfig="com.example.examplemod.Config"
