@@ -1,11 +1,11 @@
 modLoader="javafml" 
-loaderVersion="[43,)" # Forge 1.19.2 ใช้ loader เวอร์ชัน 43+
+loaderVersion="[43,)"
 license="MIT"
 
 [[mods]]
 modId="minetime"
 version="1.0"
-displayName="MintTimeMod"
+displayName="MineTimeMod"
 description='''
 TimerMod for Minecraft 1.19.2
 '''
